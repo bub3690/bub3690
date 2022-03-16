@@ -43,3 +43,6 @@ I like reading papaers. Let's study!
 
 </div>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bub3690&theme=default&show_icons=true)
+
