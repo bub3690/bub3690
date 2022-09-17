@@ -3,8 +3,6 @@
 
 #### About me
 
-- [my blog](https://blog.naver.com/bub3690)
-- [dacon profile](https://dacon.io/myprofile/434121/home)
 - 🔭 I’m currently working on  🏢[Inha university Medical AI Lab](http://hglee6.wixsite.com/inha-mai)
 - 🌱 I’m currently learning : [ <b> PyTorch / librosa /</b> ]
 - 👯 I’m looking to collaborate on ...  [ <b>Voice Ai</b> ]
