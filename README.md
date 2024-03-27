@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with  [ <b>Wav2vec , voice ai</b> ]  
 - 📫 How to reach me: bub3690@naver.com .
 - 😄 Pronouns: Just call me Jb !
-- ⚡ Fun fact: Different from upside. I want to be Unity developer
 
 
 I like reading papaers. Let's study!
