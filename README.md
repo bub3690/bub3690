@@ -4,9 +4,9 @@
 #### About me
 
 - 🔭 I’m currently working on  🏢[Inha university Medical AI Lab](http://hglee6.wixsite.com/inha-mai)
-- 🌱 I’m currently learning : [ <b> PyTorch / librosa /</b> ]
+- 🌱 I’m currently learning : [ <b> PyTorch / librosa / Knowledge Distillation</b> ]
 - 👯 I’m looking to collaborate on ...  [ <b>Voice Ai</b> ]
-- 🤔 I’m looking for help with  [ <b>Wav2vec , voice ai</b> ]  
+- 🤔 I’m looking for help with  [ <b>Knowledge distillation for Korean ASR</b> ]  
 - 📫 How to reach me: bub3690@naver.com .
 - 😄 Pronouns: Just call me Jb !
 
